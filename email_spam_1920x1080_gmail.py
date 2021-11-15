@@ -17,7 +17,7 @@ while True:
     mouse.click(Button.left)
     sleep(0.3)
 
-    kb.type("c.koopman@carmelhengelo.nl")
+    kb.type("Input their mail here")
     sleep(0.3)
     kb.press(Key.tab)
     sleep(0.3)
@@ -25,7 +25,7 @@ while True:
     sleep(0.3)
     mouse.click(Button.left)
     sleep(0.3)
-    kb.type("Huiswerk")
+    kb.type("Input a subject")
     sleep(0.3)
 
     mouse.position = (1310, 1007)
